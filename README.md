@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Dhanisha
+# 👋 Hello! I'm Dhanisha D
 
 ## 💻 Frontend Developer | Passionate Learner | Career Explorer
 
@@ -15,7 +15,7 @@
 ### 🔗 Let's Connect
 
 - 🌐 [Portfolio Website](https://portfolio-website-gold-omega-93.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/akshara-s-s/) <!-- Replace with Dhanisha's link if available -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhanisha-d-2b23482b1/) <!-- Replace with Dhanisha's link if available -->
 
 ---
 
