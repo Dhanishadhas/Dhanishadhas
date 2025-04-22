@@ -33,19 +33,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" title="VS Code"/>
 
 ---
-
-## 📈 Currently Working On
-
-- ✔️ Mastering HTML, CSS, JavaScript, and ReactJS
-- 🗣️ Improving spoken English for interviews and work environments
-- 🎓 Gaining confidence in web development through real-time projects
-
----
-
-### 🌱 Fun Fact
-
-> I enjoy learning through practice, and I believe consistency is the key to growth — both in code and in life.
-
----
-
-✨ Thanks for visiting my profile! Let's connect and grow together!
